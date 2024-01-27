@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/add_car_to_list/static/css/main.58847157.css",
+    "main.js": "/add_car_to_list/static/js/main.eda15c4d.js",
+    "index.html": "/add_car_to_list/index.html",
+    "main.58847157.css.map": "/add_car_to_list/static/css/main.58847157.css.map",
+    "main.eda15c4d.js.map": "/add_car_to_list/static/js/main.eda15c4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58847157.css",
+    "static/js/main.eda15c4d.js"
+  ]
+}
