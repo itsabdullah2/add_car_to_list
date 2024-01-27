@@ -1,0 +1,30 @@
+- PLANS
+-- Form Section
+--- Input field for car name
+--- Input field for car cost
+--- Button to submit the info of the car
+-- Car List Section & Search Input
+--- the list contains rows each row has the name, cost of the car and the delete button
+-- Value section
+--- That contains the cost of the all cars in the car lists
+// The Logic
+-- The searching field filtering the existing cars
+-- When I enter the name of existing car in the car list that added car will be bold
+
+// THE COMPONENTS THAT I'LL USE
+--- CarForm
+--- CarList
+--- CarValue
+--- CarSearch
+
+// THE STRUCTURE OF THE STORE AND SLICES FILES
+-- I'll create tow slices:
+--- First: Form slice
+---- Action: carName, carCost
+----- carName => for the name of the car
+----- carCost => for the cost of the car
+--- Second: Car List Slice
+---- Action: changeSearchTerm, removeCar, addCar
+----- changeSearchTerm => for filtering the car list for the exiting car
+----- removeCar => to the delete button to delete the car from the list of cars
+----- addCar => to add the car from the submit button from the submit button in the form section

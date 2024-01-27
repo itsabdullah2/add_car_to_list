@@ -1,3 +1,25 @@
+## 🚗 Add car to list
+
+This project is about adding car to list. I built this project for practicing on React-Redux and how to handle and/or manage the state of the entire project
+
+## 📦Technologies
+
+- React
+- React-Redux
+- Redux
+- Tailwindcss
+- gh-pages (For deploying the project on GitHub)
+
+## 🎯 Features
+
+- Add a car name
+- Add a car cost
+- Deleting a car
+
+## 📚What I Learned
+
+- During this project, I leaned How to manage state using React-Redux.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
