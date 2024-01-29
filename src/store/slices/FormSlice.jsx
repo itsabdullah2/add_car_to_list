@@ -9,10 +9,18 @@ const formSlice = createSlice({
   },
   reducers: {
     carName(state, action) {
-      state.name = action.payload;
+      // state.name = action.payload;
+      return {
+        ...state,
+        name: action.payload,
+      };
     },
     carCost(state, action) {
-      state.cost = action.payload;
+      // state.cost = action.payload;
+      return {
+        ...state,
+        cost: action.payload,
+      };
     },
   },
   extraReducers(build) {
