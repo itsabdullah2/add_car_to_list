@@ -1,6 +1,6 @@
 ## 🚗 Add car to list
 
-This project is about adding car to list. I built this project for practicing on React-Redux and how to handle and/or manage the state of the entire project
+This project is about adding cars to the list. I built this project to practice on React-Redux and how to handle and/or manage the state of the entire project
 
 ## 📦Technologies
 
@@ -12,13 +12,16 @@ This project is about adding car to list. I built this project for practicing on
 
 ## 🎯 Features
 
-- Add a car name
-- Add a car cost
-- Deleting a car
+- You can add a car by entering the name and the cost.
+- You can delete the car from the list.
+- When you try adding a car using the same name of a car that exists the name and cost of that car will be bold.
+- You can search for a car in the list.
 
 ## 📚What I Learned
 
-- During this project, I leaned How to manage state using React-Redux.
+- During this project, I learned How to manage state using React-Redux.
+
+### 💻 Demo: https://itsabdullah2.github.io/add_car_to_list/
 
 # Getting Started with Create React App
 
